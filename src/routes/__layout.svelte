@@ -1,22 +1,51 @@
 <script lang="ts">
-	import Header from '$lib/Header.svelte';
 	import '../app.css';
+
+	const navItems: Array<{
+		label: string;
+		href: string;
+		active: boolean;
+	}> = [
+		{ label: 'Home', href: '/', active: true },
+		{ label: 'Photos', href: '/photos', active: false },
+		{ label: 'Memories', href: '/memories', active: false },
+		{ label: 'Songs', href: '/songs', active: false },
+		{ label: 'Reunions/Present Time', href: '/reunions', active: false },
+		{ label: 'Announcements', href: '/announcements', active: false },
+		{ label: 'More Info', href: '/more-info', active: false }
+	];
 </script>
 
-<Header />
+<div class="lg:max-w-screen-lg grid grid-cols-1 gap-3 mt-4 mx-auto">
+	<div class="border-blue border-8">
+		<header>
+			<h1>
+				<img
+					src="/img/header.jpg"
+					alt="Camp Kahagon - You will be, our fondest memory..."
+					class="w-full"
+				/>
+			</h1>
+		</header>
+		<nav class="bg-gradient-to-b from-blue to-blue-light">
+			<ul class="sm:flex sm:flex-wrap">
+				{#each navItems as { label, href, active }}
+					<li class="flex-auto">
+						<a
+							{href}
+							class="block h-full  py-3 text-center text-white font-bold {active
+								? 'text-black bg-blue-light'
+								: 'hover:bg-gradient-to-b hover:from-yellow-light hover:to-yellow'}"
+						>
+							{label}
+						</a>
+					</li>
+				{/each}
+			</ul>
+		</nav>
+	</div>
 
-<nav>
-	<h2>Nav</h2>
-	<ul>
-		<li><a href="/">Home</a></li>
-		<li><a href="/about">About</a></li>
-	</ul>
-</nav>
-
-<main>
-	<slot />
-</main>
-
-<footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
-</footer>
+	<main>
+		<slot />
+	</main>
+</div>

@@ -13,9 +13,10 @@ module.exports = {
 			blue: '#0066cc',
 			'blue-light': '#e7f3ff',
 			yellow: '#f0db4d',
-			'yellow-light': '#fff6c3'
+			'yellow-light': '#fff6c3',
+			indigo: '#151b8d'
 		},
 		extend: {}
 	},
-	plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography')]
+	plugins: [require('@tailwindcss/forms')]
 };

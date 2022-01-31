@@ -16,7 +16,7 @@
 	];
 </script>
 
-<div class="lg:max-w-screen-lg grid grid-cols-1 gap-3 mt-4 mx-auto">
+<div class="lg:max-w-screen-lg grid grid-cols-1 gap-3 mx-auto">
 	<div class="border-blue border-8">
 		<header>
 			<h1>
@@ -45,7 +45,11 @@
 		</nav>
 	</div>
 
-	<main>
-		<slot />
+	<main
+		class="border-blue border-8 pt-36 pb-[28rem] bg-blue-light bg-[url('/img/topleft-background.png'),url('/img/midright-background.jpg')] bg-[length:128px,300px] bg-[position:top,bottom] bg-no-repeat"
+	>
+		<div class="md:mx-[6rem] lg:mx-[8rem] border-blue border-x-[1px] p-3">
+			<slot />
+		</div>
 	</main>
 </div>

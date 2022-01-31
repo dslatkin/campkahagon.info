@@ -1,12 +1,12 @@
 // https://github.com/microsoft/vscode-dev-containers/blob/v0.209.6/containers/typescript-node/.devcontainer/devcontainer.json
 {
     "name": "Node.js, TypeScript",
-	"build": {
-		"dockerfile": "Dockerfile",
-		"args": { 
-			"VARIANT": "16-bullseye"
-		}
-	},
+    "build": {
+        "dockerfile": "Dockerfile",
+        "args": {
+            "VARIANT": "16-bullseye"
+        }
+    },
     "postCreateCommand": "npm install",
     "remoteUser": "node",
     "forwardPorts": [3000],
@@ -21,7 +21,7 @@
         "svelte.enable-ts-plugin": true,
         "svelte.plugin.svelte.defaultScriptLanguage": "ts",
         "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true,
+        "editor.formatOnSave": true
     },
 
     "extensions": [

@@ -3,19 +3,19 @@
 @tailwind utilities;
 
 @layer base {
-	:root {
-		font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	}
-	body {
-		@apply mx-4 my-2 bg-[url('/img/background.jpg')] bg-[length:1400px] text-indigo;
-	}
-	p {
-		@apply leading-tight;
-	}
-	p:not(:first-child, :last-child) {
-		@apply my-3;
-	}
-	blockquote {
-		@apply text-right text-sm italic;
-	}
+    :root {
+        font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    }
+    body {
+        @apply mx-4 my-2 bg-[url('/img/background.jpg')] bg-[length:1400px] text-indigo;
+    }
+    p {
+        @apply leading-tight;
+    }
+    p:not(:first-child, :last-child) {
+        @apply my-3;
+    }
+    blockquote {
+        @apply text-right text-sm italic;
+    }
 }

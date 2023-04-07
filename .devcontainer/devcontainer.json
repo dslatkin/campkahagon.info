@@ -1,36 +1,49 @@
-// https://github.com/microsoft/vscode-dev-containers/blob/v0.209.6/containers/typescript-node/.devcontainer/devcontainer.json
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
 {
-    "name": "Node.js, TypeScript",
-    "build": {
-        "dockerfile": "Dockerfile",
-        "args": {
-            "VARIANT": "16-bullseye"
-        }
-    },
-    "postCreateCommand": "npm install",
-    "remoteUser": "node",
-    "forwardPorts": [3000],
-    "portsAttributes": {
-        "3000": {
-            "label": "SvelteKit dev server",
-            "onAutoForward": "openBrowser"
+    "name": "Node.js & TypeScript",
+    // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+    "image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "svelte.svelte-vscode",
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode"
+            ],
+            "settings": {
+                "editor.formatOnSave": true,
+                "[typescript]": {
+                    "editor.defaultFormatter": "esbenp.prettier-vscode"
+                },
+                "[svelte]": {
+                    "editor.defaultFormatter": "svelte.svelte-vscode"
+                },
+                "[css]": {
+                    "editor.defaultFormatter": "esbenp.prettier-vscode"
+                },
+                "[json]": {
+                    "editor.defaultFormatter": "esbenp.prettier-vscode"
+                },
+                "workbench.editor.labelFormat": "short",
+                "svelte.enable-ts-plugin": true,
+                "svelte.plugin.svelte.useNewTransformation": true
+            }
         }
     },
 
-    "settings": {
-        "svelte.enable-ts-plugin": true,
-        "svelte.plugin.svelte.defaultScriptLanguage": "ts",
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
+    // Features to add to the dev container. More info: https://containers.dev/features.
+    // "features": {},
 
-    "extensions": [
-        "svelte.svelte-vscode",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "eamodio.gitlens",
-        "eg2.vscode-npm-script",
-        "csstools.postcss",
-        "bradlc.vscode-tailwindcss"
-    ]
+    // Use 'forwardPorts' to make a list of ports inside the container available locally.
+    // "forwardPorts": [],
+
+    // Use 'postCreateCommand' to run commands after the container is created.
+    "postCreateCommand": "npm install -g npm@9 && npx npm@9 install"
+
+    // Configure tool-specific properties.
+    // "customizations": {},
+
+    // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+    // "remoteUser": "root"
 }

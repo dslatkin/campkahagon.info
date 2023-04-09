@@ -1,3 +1,7 @@
+<script>
+    console.log('working');
+</script>
+
 <p>Hi all... Welcome back to CAMP KAHAGON!</p>
 
 <blockquote>KAHAGON is Iroquois - meaning "In the forest"</blockquote>

@@ -30,4 +30,11 @@
         font-weight: bold;
         font-size: 1.5rem;
     }
+    a {
+        @apply text-blue-bright;
+        text-decoration: underline;
+    }
+    a:hover {
+        @apply text-black;
+    }
 }

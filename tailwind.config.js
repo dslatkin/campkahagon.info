@@ -7,6 +7,7 @@ export default {
             white: '#ffffff',
             blue: '#0066cc',
             'blue-light': '#e7f3ff',
+            'blue-bright': '#0000ff',
             yellow: '#f0db4d',
             'yellow-light': '#fff6c3',
             indigo: '#151b8d',

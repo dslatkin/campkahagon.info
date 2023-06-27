@@ -1,5 +1,26 @@
-Todo
+<script>
+    import { page } from "$app/stores";
 
+    $: albumId = $page.url.searchParams.get('album');
+</script>
+
+Current albumId is {albumId}
+
+For photo information, click picture. For full screen, click the bottom-right
+icon.
+
+Old Photo Collections:
+[Saryl Radwin](?album=1) |
+[Yvonne Rosenstein](?album=2) |
+[Andy Sachs](?album=3)
+
+New Photo Collections:
+[Diane Fellows Zimmer](?album=4) |
+[Marty Bachrach](?album=5) |
+[Stuart Harrow](?album=6) |
+[Unknown](?album=7)
+
+{#if !albumId}Select an album to continue{/if}
 
 # Markdown heading 1
 

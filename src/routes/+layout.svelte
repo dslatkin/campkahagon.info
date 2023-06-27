@@ -33,9 +33,9 @@
                     <li class="flex-auto">
                         <a
                             {href}
-                            class="block h-full py-3 text-center font-bold text-white {active
-                                ? 'bg-blue-light text-black'
-                                : 'hover:bg-gradient-to-b hover:from-yellow-light hover:to-yellow'}"
+                            class="block h-full py-3 text-center font-bold {active
+                                ? 'text-black bg-blue-light'
+                                : 'text-white hover:bg-gradient-to-b hover:text-black hover:from-yellow-light hover:to-yellow'}"
                         >
                             {label}
                         </a>

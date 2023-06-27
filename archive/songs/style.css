@@ -1,0 +1,108 @@
+.item
+{
+
+font-size:14px;
+font-family:Helvetica,Arial, sans-serif;
+line-height:1.6em;
+}
+
+pre{
+font-size:14px;
+font-family:Helvetica,Arial, sans-serif;
+}
+
+h2
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size:14px;
+color:#883388;
+}
+
+h3{
+color:#003366;
+}
+
+h4{
+color:#666666;
+}
+
+
+.contents{
+padding:10px;
+position:relative;
+top:-24px;
+}
+
+body{
+scrollbar-face-color:  #FBB917;
+scrollbar-arrow-color: #D462FF;
+scrollbar-track-color: #D462FF;
+}
+
+html {
+overflow-x: hidden;
+}
+
+/********** main ****************************/
+a {
+color:#666666;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********** contact us ****************************/
+
+form.contact_us {
+	width: 190px;
+	margin-top: 15px;
+	margin-left: 0px;
+	padding: 15px;
+	background-color: #E7F3FF;
+	background-image: url(images/form_bg.png);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+input.fields_contact_us {display: block;
+        width: 185px;
+        
+		border-top: 1px solid #E3E4E9;
+		border-left: 1px solid #E3E4E9;
+		border-bottom: 1px solid white;
+		border-right: 1px solid white;
+		margin-top: 3px;
+	    margin-bottom: 3px;}
+
+textarea {width: 185px;
+          
+          border-top: 1px solid #E3E4E9;
+		  border-left: 1px solid #E3E4E9;
+		  border-bottom: 1px solid white;
+		  border-right: 1px solid white;
+
+          margin-top: 3px;}
+
+.submit_button_contact {
+	margin-top: 15px;
+	padding: 2px;
+	background-color: #DDDDDD;
+}

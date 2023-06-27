@@ -1,0 +1,106 @@
+<html>
+<head>
+<script type="text/javascript">
+function message()
+{
+	alert("HIYA!!!")
+}
+
+function show()
+{
+	var r=confirm("Want to see something cool?")
+	if (r==true)
+	{
+		alert("WAHAHAHAHAH." + "\n" + "WAHAHAHAHAH.")
+	}
+	else
+	{
+	}
+}
+
+function disp_prompt()
+{
+  var name=prompt("Please enter your name","Harry Potter")
+  if (name!=null && name!="")
+    {
+    document.write("Hello " + name + "! How are you today?")
+    }
+}
+
+function startTime()
+{
+var today=new Date()
+var h=today.getHours()
+var m=today.getMinutes()
+var s=today.getSeconds()
+// add a zero in front of numbers<10
+m=checkTime(m)
+s=checkTime(s)
+document.getElementById('txt').innerHTML=h+":"+m+":"+s
+t=setTimeout('startTime()',500)
+}
+
+function checkTime(i)
+{
+if (i<10) 
+  {i="0" + i}
+  return i
+}
+</script>
+</head>
+
+
+<body onLoad="startTime()">
+<table bgcolor="#000000" style="font:Arial, Helvetica, sans-serif; color:#00FF00" border="2">
+<tr>
+<td>
+<div border id="txt"></div>
+</td></tr></table>
+
+<script type="text/javascript">
+<!--
+document.write("<h1>"+"Hello!"+"</h1>");
+//-->
+</script>
+
+<script type="text/javascript">
+var d = new Date()
+var time = d.getHours()
+var theday = d.getDay()
+
+if (time > 10) 
+{
+	document.write("WAKE UP! ")
+}
+
+document.write("It is ")
+
+switch (theday)
+{
+case 5:
+	document.write("Friday.")
+	break;
+case 6:
+	document.write("Saturday.")
+	break;
+case 0:
+	document.write("Sunday.")
+	break;
+default:
+	document.write("Workday.")
+}
+var food=(theday==3)?"Now go get food":"Don't get food"
+document.write(" " + food)
+
+</script>
+<br>
+<br>
+<br>
+<input type="button" onClick="show()" value="CLICK ME" />
+<br>
+<br>
+<br>
+<input type="button" onClick="disp_prompt()" value="Give Name" />
+
+</body>
+</html>

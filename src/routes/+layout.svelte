@@ -34,8 +34,8 @@
                         <a
                             {href}
                             class="block h-full py-3 text-center font-bold no-underline {active
-                                ? 'text-black bg-blue-light'
-                                : 'text-white hover:bg-gradient-to-b hover:text-black hover:from-yellow-light hover:to-yellow'}"
+                                ? 'bg-blue-light text-black'
+                                : 'text-white hover:bg-gradient-to-b hover:from-yellow-light hover:to-yellow hover:text-black'}"
                         >
                             {label}
                         </a>
@@ -46,7 +46,7 @@
     </div>
 
     <main
-        class="border-8 border-blue bg-blue-light bg-[url('/img/topleft-background.png'),url('/img/midright-background.jpg')] bg-[length:128px,300px] bg-[position:top,bottom] bg-no-repeat pb-[28rem] pt-36"
+        class="border-8 border-blue bg-blue-light bg-[url('/img/topleft-background.png'),url('/img/midright-background.jpg')] bg-[length:128px,300px] bg-[position:top,bottom] bg-no-repeat pb-[30rem] pt-36"
     >
         <div class="border-x-[1px] border-blue p-3 md:mx-[6rem] lg:mx-[8rem]">
             <slot />

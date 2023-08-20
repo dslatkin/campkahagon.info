@@ -1,19 +1,21 @@
 <script lang="ts">
+    import { page } from '$app/stores';
     import '../app.css';
 
     const navItems: Array<{
         label: string;
         href: string;
-        active: boolean;
     }> = [
-        { label: 'Home', href: '/', active: true },
-        { label: 'Photos', href: '/photos', active: false },
-        { label: 'Memories', href: '/memories', active: false },
-        { label: 'Songs', href: '/songs', active: false },
-        { label: 'Reunions/Present Time', href: '/reunions', active: false },
-        { label: 'Announcements', href: '/announcements', active: false },
-        { label: 'More Info', href: '/more-info', active: false },
+        { label: 'Home', href: '/' },
+        { label: 'Photos', href: '/photos' },
+        { label: 'Memories', href: '/memories' },
+        { label: 'Songs', href: '/songs' },
+        { label: 'Reunions/Present Time', href: '/reunions' },
+        { label: 'Announcements', href: '/announcements' },
+        { label: 'More Info', href: '/more-info' },
     ];
+
+    $: currentPath = $page.url.pathname;
 </script>
 
 <div class="mx-auto grid grid-cols-1 gap-3 lg:max-w-screen-lg">
@@ -27,18 +29,26 @@
                 />
             </h1>
         </header>
-        <nav class="bg-gradient-to-b from-blue to-blue-light">
+        <nav
+            class="bg-gradient-to-b from-blue to-blue-light"
+            aria-label="Main navigation"
+        >
             <ul class="sm:flex sm:flex-wrap">
-                {#each navItems as { label, href, active }}
-                    <li class="flex-auto">
-                        <a
-                            {href}
-                            class="block h-full py-3 text-center font-bold no-underline {active
-                                ? 'bg-blue-light text-black'
-                                : 'text-white hover:bg-gradient-to-b hover:from-yellow-light hover:to-yellow hover:text-black'}"
-                        >
-                            {label}
-                        </a>
+                {#each navItems as { label, href }}
+                    {@const active = href == currentPath}
+                    <li class="flex-auto text-center font-bold">
+                        {#if active}
+                            <div class="h-full bg-blue-light py-3 text-black">
+                                {label}
+                            </div>
+                        {:else}
+                            <a
+                                {href}
+                                class="block h-full py-3 text-white no-underline hover:bg-gradient-to-b hover:from-yellow-light hover:to-yellow hover:text-black"
+                            >
+                                {label}
+                            </a>
+                        {/if}
                     </li>
                 {/each}
             </ul>

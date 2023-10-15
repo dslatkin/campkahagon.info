@@ -37,4 +37,13 @@
     a:hover {
         @apply text-black;
     }
+    code {
+        padding: 1em;
+        display: block;
+        text-align: left;
+        border: 1px dashed pink;
+        background: #333;
+        color: #ddd;
+        white-space: pre-wrap;
+    }
 }

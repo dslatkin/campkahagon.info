@@ -13,6 +13,7 @@
     ] as const;
 
     const albums: {
+        id: string;
         title: string;
         href: string;
         cover: string;
@@ -20,6 +21,7 @@
         collection: (typeof collections)[number]['key'];
     }[] = [
         {
+            id: 'saryl',
             title: "Saryl's photos 1962-66",
             href: 'https://www.flickr.com/photos/28156252@N05/albums/72157606300675380',
             cover: 'https://live.staticflickr.com/3274/2689373007_ac585b5461_q.jpg',
@@ -27,6 +29,7 @@
             collection: 'old',
         },
         {
+            id: 'yvonne',
             title: 'Yvonne "Evie" Rosenstein\'s photos',
             href: 'https://www.flickr.com/photos/28156252@N05/albums/72157606975076827',
             cover: 'https://live.staticflickr.com/3282/2801012375_bddce2789e_q.jpg',
@@ -34,6 +37,7 @@
             collection: 'old',
         },
         {
+            id: 'Andy',
             title: "Andy Sachs's photos 1961-62",
             href: 'https://www.flickr.com/photos/28156252@N05/albums/72157607377850124',
             cover: 'https://live.staticflickr.com/3293/2870449699_863efc182f_q.jpg',
@@ -41,6 +45,7 @@
             collection: 'old',
         },
         {
+            id: 'diane',
             title: "Diane Fellows Zimmer's Photos",
             href: 'https://www.flickr.com/photos/127089176@N03/albums/72157646303678368',
             cover: 'https://live.staticflickr.com/3896/14995572455_3b6339daa8_q.jpg',
@@ -48,6 +53,7 @@
             collection: 'new',
         },
         {
+            id: 'marty',
             title: "Marty Bachrach's Photos",
             href: 'https://www.flickr.com/photos/127089176@N03/albums/72157646303465969',
             cover: 'https://live.staticflickr.com/3923/14995225392_1039075308_q.jpg',
@@ -55,6 +61,7 @@
             collection: 'new',
         },
         {
+            id: 'stuart',
             title: "Stuart Harrow's Photos",
             href: 'https://www.flickr.com/photos/127089176@N03/albums/72157646302089037',
             cover: 'https://live.staticflickr.com/5578/14995596545_6601de2bc8_q.jpg',
@@ -62,6 +69,7 @@
             collection: 'new',
         },
         {
+            id: 'unknown',
             title: 'Who Are They - To Be Identified',
             href: 'https://www.flickr.com/photos/127089176@N03/albums/72157646302162197',
             cover: 'https://live.staticflickr.com/3895/14809096397_2e3c30cbb0_q.jpg',
@@ -70,10 +78,14 @@
         },
     ];
 
-    $: albumId = $page.url.searchParams.get('album');
+    let activeAlbum: (typeof albums)[number] | undefined;
+    $: {
+        const activeAlbumId = $page.url.searchParams.get('album');
+        activeAlbum = activeAlbumId
+            ? albums.find((a) => a.id === activeAlbumId)
+            : undefined;
+    }
 </script>
-
-<p>Current albumId is {albumId}</p>
 
 <p class="text-center">
     For photo information, click picture. For full screen, click the
@@ -83,16 +95,25 @@
 {#each collections as { label, key }}
     {@const albumsInCollection = albums.filter((a) => a.collection === key)}
     <p class="text-center">
-        {label}:
-        {#each albumsInCollection as { contributor }, idx}
+        {#each albumsInCollection as { id, contributor }, idx}
+            {@const active = id == activeAlbum?.id}
             {#if idx > 0}&nbsp;|&nbsp;{/if}
-            <a href="?album={idx + 1}" data-sveltekit-reload>{contributor}</a>
+            {#if active}
+                {contributor}
+            {:else}
+                <!--
+                    Flickr's embed script requires a full page reload when
+                    clicking links to be functional with the way its listeners
+                    are set up.
+                -->
+                <a href="?album={id}" data-sveltekit-reload>{contributor}</a>
+            {/if}
         {/each}
     </p>
 {/each}
 
-{#if albumId}
-    {@const { title, href, cover } = albums[parseInt(albumId) - 1]}
+{#if activeAlbum}
+    {@const { title, href, cover } = activeAlbum}
     <div class="flickr-album">
         <a data-flickr-embed="true" data-footer="true" {title} {href}>
             <img src={cover} width="700" height="525" alt={title} />

@@ -1,5 +1,6 @@
 <script lang="ts">
     import { page } from '$app/stores';
+    import FlickrEmbed from '$lib/FlickrEmbed.svelte';
 
     $: slug = $page.params.slug;
 
@@ -69,32 +70,7 @@
     <h2>{activeAlbum.title}</h2>
 
     {@const { title, href, cover } = activeAlbum}
-    <div class="flickr-album">
-        <a data-flickr-embed="true" data-footer="true" {title} {href}>
-            <img src={cover} width="700" height="525" alt={title} />
-        </a>
-    </div>
-
-    {#key activeAlbum}
-        <script
-            async
-            src="//embedr.flickr.com/assets/client-code.js"
-            charset="utf-8"
-        >
-        JavaScript must be enabled to view this content.
-        </script>
-    {/key}
+    <FlickrEmbed {title} {href} {cover} />
 {:else}
     <p>Album not found.</p>
 {/if}
-
-<style>
-    .flickr-album :global(iframe) {
-        /*
-            We need !important here to override the inline styles that flickr's
-            embedder puts on the embedded iframe.
-        */
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-</style>

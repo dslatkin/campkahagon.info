@@ -14,7 +14,7 @@ Happy with you.
 Memories of White and Blue.  
 And with all our friends so true.
 Through the years come back anew.
-Kahagon, here’s to you.
+Kahagon, hereï¿½s to you.
 </pre>
 </div>
 
@@ -29,15 +29,15 @@ And within our heart, how we hate to part.
 From our own Camp Kahagon.
 All the days we have spent here.  
 All the hours of fun.
-Now it’s time to leave, but our hearts will grieve.
+Now itï¿½s time to leave, but our hearts will grieve.
 For our own Camp Kahagon.
 But tho?we go, this much we know.  
 We will return some day.
 And until we do, we will think of you.
 And each night we will pray.
-That we’ll soon be together.  
+That weï¿½ll soon be together.  
 Reunited as one.
-‘Til our dreams come true we will pine for you.
+ï¿½Til our dreams come true we will pine for you.
 And the days spent at Kahagon.
 </pre>
 </div>
@@ -54,20 +54,20 @@ White Bullets flying they will meet their fall.
 Swiftly they gallop through the flaming skies; 
 stopping the bullets we will pass them by.
 Blue Riders Blue Riders fight to the end; 
-Blue Riders Blue Riders we’ll never bend.
+Blue Riders Blue Riders weï¿½ll never bend.
 </pre>
 
-<h4>Blue Riders FRIENDSHIP song: (to tune of “I’m As Corny as Kansas…”)</h4>
+<h4>Blue Riders FRIENDSHIP song: (to tune of ï¿½Iï¿½m As Corny as Kansasï¿½ï¿½)</h4>
 <pre>
-(2nd or 3rd verse) The Blue and the White as we now end the fight….
+(2nd or 3rd verse) The Blue and the White as we now end the fightï¿½.
 we are friends that will always be true.
 White team we turn with our hands outstretched to you.
 Thanks for the fun in a war fight so true. 
-We’ll ne’er forget all the friends that we’ve met.
+Weï¿½ll neï¿½er forget all the friends that weï¿½ve met.
 Now we join both the White and the Blue.
 </pre>
 
-<h4>Unofficial color war song… tease between White Bullets and Blue Riders:</h4>
+<h4>Unofficial color war songï¿½ tease between White Bullets and Blue Riders:</h4>
 <pre>
 Blood on the saddle, blood on the ground; 
 great big puddles of blood all around.
@@ -75,7 +75,7 @@ Pity the blue team bloody and dead;
 Great big white team stepped on their head
 Response from Blue Riders:
 Blood on the saddle, blood on the floor;
-every damn “Bullet” eats it raw!
+every damn ï¿½Bulletï¿½ eats it raw!
 </pre>
 </div>
 
@@ -83,10 +83,10 @@ every damn “Bullet” eats it raw!
 >
 <h2>1963 Color War</h2>
 <h3>White Clouds and Blue Flame (winning team)</h3>
-<h4>White Clouds MARCH song: (to tune of France’s national anthem)</h4>
+<h4>White Clouds MARCH song: (to tune of Franceï¿½s national anthem)</h4>
 <pre>
 We are the white team marching to victory; 
-Our banner’s waving beneath the sky
+Our bannerï¿½s waving beneath the sky
 Our Foes will be smashed and defeated, 
 and the glory of white will remain
 The glory of white will remain through raging battles we fought to conquer
@@ -97,44 +97,44 @@ All join in song and praise,
 to sing of camping days
 March on white team, march on white team, 
 fighting through the fray
-We’ll win this war today…white, white, white, white
+Weï¿½ll win this war todayï¿½white, white, white, white
 </pre>
 
-<h4>White Clouds CHEER Song: (to tune of “That’s Entertainment”)</h4>
+<h4>White Clouds CHEER Song: (to tune of ï¿½Thatï¿½s Entertainmentï¿½)</h4>
 <pre>
-Here we come, we’ve got something to say.  
-We’re the White Clouds and we’ll win today.
+Here we come, weï¿½ve got something to say.  
+Weï¿½re the White Clouds and weï¿½ll win today.
 Here we are jumping into the fray. 
-We are the White Clouds…high in spirit and might, we will win this fight.  
+We are the White Cloudsï¿½high in spirit and might, we will win this fight.  
 Always having victory in sight.  
-’63 that wonderful year…that the White Clouds will win, 
-Never worry or fear…    Repeat.
+ï¿½63 that wonderful yearï¿½that the White Clouds will win, 
+Never worry or fearï¿½    Repeat.
 </pre>
 
-<h4>White Clouds FRIENDSHIP song (to tune of “Shall We Dance” from King and I)</h4>
+<h4>White Clouds FRIENDSHIP song (to tune of ï¿½Shall We Danceï¿½ from King and I)</h4>
 <pre>
-Bluuuue and White, let’s unite.  
-On this evening, both teams will cease to fight, let’s unite.
-The war is o’re, and our friendship remains forever more.
-KA HA GON…we now sing both the praise of white and blue.  
+Bluuuue and White, letï¿½s unite.  
+On this evening, both teams will cease to fight, letï¿½s unite.
+The war is oï¿½re, and our friendship remains forever more.
+KA HA GONï¿½we now sing both the praise of white and blue.  
 With our hands joined in friendship;
 In our blue and white team blendship; 
-let’s unite and forget the score.
-We’ll be one team forever, with our spirits dying ever…Blue and White in the fight, let’s unite.
+letï¿½s unite and forget the score.
+Weï¿½ll be one team forever, with our spirits dying everï¿½Blue and White in the fight, letï¿½s unite.
 </pre>
 
-<h4>White Clouds ALMA MATER song: (to tune of “There’s A Place For Us” from West Side Story)</h4>
+<h4>White Clouds ALMA MATER song: (to tune of ï¿½Thereï¿½s A Place For Usï¿½ from West Side Story)</h4>
 <pre>
 As we sing of thee, Kahagon loyally; 
 We pledge honor, 
-devotion to…from our hearts outstretched to you…For you… to you…Ever.
-You’ve enriched our minds; 
+devotion toï¿½from our hearts outstretched to youï¿½For youï¿½ to youï¿½Ever.
+Youï¿½ve enriched our minds; 
 and so the tie that binds; part of us will remain untorn;
-For within us a love was born….
+For within us a love was bornï¿½.
 Constant, lasting, based on a new understanding,
 of our world and each other
-And so….though the coming time may toss us far and wide. 
-KA HA GON we’ll return to you;
+And soï¿½.though the coming time may toss us far and wide. 
+KA HA GON weï¿½ll return to you;
 In our hearts we will long for you;
 Always, with us are you.
 </pre>
@@ -153,13 +153,13 @@ Stand White Winds and fight (blow with all your might);
 Raise your cheering voices (shout and makes some noises);
 We're white and we're gotta (gonna?) win;
 REPEAT stanza 2x's.
-Cause…like a crash of thunder into the fight we'll break.
+Causeï¿½like a crash of thunder into the fight we'll break.
 And then we'll plow them under, till Blues begin to quake.
 The mighty team blowing our fighters and denied.
 Hail, hail the White Winds will fight, our spirits high;
 we'll never die, we'll reach the sky.
 White Winds on high.
-REPEAT… cause like a crash of thunder….
+REPEATï¿½ cause like a crash of thunderï¿½.
 
 </pre>
 
@@ -194,7 +194,7 @@ REPEAT stanza again.
 <h4>White Surf CHEER song: <br>(to tune of "B-I-N-G-O")</h4>
 <pre>
 There is a team in KA HA GON 
-and White Surf is our name…oh…
+and White Surf is our nameï¿½ohï¿½
 W-H-I-T-E, W-H-I-T-E, W-H-I-T-E,
  and White Surf is our name sir.
 REPEAT and Continue, just like the "BINGO" song,
@@ -204,7 +204,7 @@ REPEAT and Continue, just like the "BINGO" song,
 <h4>White Surf MARCH song: <br>(to tune of "One Hundred Thousand Miracles" from Flower Drum Song)</h4>
 <pre>
 Wonderous Surf is marching; 
-Wonderous Surf is marching…to greater victory.
+Wonderous Surf is marchingï¿½to greater victory.
 The blue team humbly gives in; 
 the whites on top we know will win.
 Our steps are proud and glorious; 
@@ -227,19 +227,19 @@ They march us on victorious.
 <h4>White Surf FIGHT song: <br>(to tune of "Ghost Riders in the Sky")</h4>
 <pre>
 With hands held high our spirits fly; 
-the blue team we will pass….we will pass.
+the blue team we will passï¿½.we will pass.
 The fury and the power of the mighty surf will last. 
 Like the thunder of the oceans roar;
 We meet our destiny.  
 To smash through the blue team's lines and take our victory.
-White Surf-White Surf…Wonderous White Surf.
+White Surf-White Surfï¿½Wonderous White Surf.
 We'll smash through the blue team's lines and take our victory.
-White Surf-White Surf…Wonderous White Surf.
+White Surf-White Surfï¿½Wonderous White Surf.
 The White Surf roars and crashes as it glistens in the sun.
 For many other daring foes have come and they have gone.
 For the thunder and the fury 
 of the mighty white surf's crash will send us on to victory as
-Tikis we will smash.  White Surf-White Surf…Wonderous White Surf. 
+Tikis we will smash.  White Surf-White Surfï¿½Wonderous White Surf. 
 Wonderous White Surf
 Will send us on to victgoy as Tikis we will smash.
 White Surf, White Surf, White Surf
@@ -274,7 +274,7 @@ White snows melt away.
  Flowers bloom, and we'll return but till that day.
 We'll think of you Kahagon; a torch will burn.  
 Your glowing ambers flare up, and for you we'll yearn.
-The haven of our childhood…your warmth, our glow. 
+The haven of our childhoodï¿½your warmth, our glow. 
  Forever will be with us, as through our lives we go.
 
 </pre>
@@ -298,13 +298,13 @@ We're gonna meet the white, beat the white,
 defeat the white, show the white. 
 The Blue will ne'er give in.  
 Tonight we are winning; tomorrow we've won.  
-And our fate….it will soar… to the sky.
+And our fateï¿½.it will soarï¿½ to the sky.
 The end is near, the Spirits will fear. 
 The score is high, the whites are sure to die.
 We're gonna meet the white, beat the white, defeat the white, show the white.  
 The Blue will ne'er give in.  
 Tonight we are winning; tomorrow we've won.  
-And our fate….it will soar… to the sky.
+And our fateï¿½.it will soarï¿½ to the sky.
 
 </pre>
 
@@ -331,9 +331,9 @@ And we'll never yield to anyone.
 Venoms are winning; Spirits are spinning.  
 Blue team courageous.  Shout out our name.
 We'll all be striving.  White team we're driving.  
-This is our moment…on to victory.
+This is our momentï¿½on to victory.
 Holding our banner's high.  We're sure to pass them by.  
-White team will meet their fate…Blue conquers all.
+White team will meet their fateï¿½Blue conquers all.
 Cheer loud to victory.  Stand tall for all to see.  
 We know the whites will flee; and we'll win tonight.
 REPEAT.
@@ -393,7 +393,7 @@ We'll show the rest of the world.
 What true friendship can do.
 Now the summer has come to an end; 
 and the time has come for us to part.
-But we'll always remember Kahagon…forever within our heart.
+But we'll always remember Kahagonï¿½forever within our heart.
 </pre>
 
 <h4>White Spirit CHEER song: (to tune of "Everything's Comin' Up Roses" from Gypsy)</h4>
@@ -412,9 +412,9 @@ So, let's raise our voices and cheer on while we conquer Blue.
 
 <h4>White Spirit MARCH song: (to tune of "Wild Blue Yonder")</h4>
 <pre>
-Invincible…we are the white team spirit.  Victorious…into the fray.
-Banners high…strongest in competition.  Striving hard in every way.
-Marching on…we are a team united, with our hearts loyal and true.
+Invincibleï¿½we are the white team spirit.  Victoriousï¿½into the fray.
+Banners highï¿½strongest in competition.  Striving hard in every way.
+Marching onï¿½we are a team united, with our hearts loyal and true.
 Mighty white will win tonight.   White Spirit is going to conquer the Blue.
 </pre>
 
@@ -423,13 +423,13 @@ Mighty white will win tonight.   White Spirit is going to conquer the Blue.
 Smashing Blue with Spirit; 
 We'll win the fight.   
 Singing ever onward.
-We'll win the sing… we're mighty white team.  
+We'll win the singï¿½ we're mighty white team.  
 We have got the force to meet the fray.
 With our heads held high.  
 We will show them why.  
 We are soaring on to reach the sky.
-We know we will never give in…for our undying spirit will win.
-And when we yell WAR…Blue Venom knows the score.
+We know we will never give inï¿½for our undying spirit will win.
+And when we yell WARï¿½Blue Venom knows the score.
 We'd like to say that white team will ne'er be defeated for unyielding are we;
 Let's fight tonight.   REPEAT 3x's.
 
@@ -453,20 +453,20 @@ But it's over now.
 Friendship we do vow.  
 We'll be friends both White and Blue.  
 Now we stand as one.
-This much we know…even when the war is long ago. 
+This much we knowï¿½even when the war is long ago. 
 Memories in our heart we'll cherish so.
-Kahagon we'll be true…with fond thoughts of White and Blue.
+Kahagon we'll be trueï¿½with fond thoughts of White and Blue.
 </pre>
 
 <h4>White Spirit ALMA MATER song: (to tune of "Smile")</h4>
 <pre>
 Smile though the summer's ending; 
 Sing with your voices blending.
-Though we are drifting apart we will start…
+Though we are drifting apart we will startï¿½
 to sing and to give to you our thoughts of dear White & Blue
-And, with a tear in every eye… we say……..
+And, with a tear in every eyeï¿½ we sayï¿½ï¿½..
 (to tune of "Sabbath Prayer")
-Camp Kahagon standing in glory…we will be eternally true.  
+Camp Kahagon standing in gloryï¿½we will be eternally true.  
 We stand before you now. 
 And pledge our loyalty to you.  
 Our golden fields and blue skies remind us 
@@ -474,14 +474,14 @@ of happy summer days spent with you.
 We thank you for the aura of friendship, 
 which ever shall unite as one.  
 Our hearts are filled pride; honor to abide; 
-devotion grows inside for you.  And….
+devotion grows inside for you.  Andï¿½.
 (back to "Smile")
 Friendships will last forever.  
 Remembering the past forever.  
 Though we are parting, our future's just starting.  
 The time seemed to fly, Kahagon
 Memories go by, Kahagon.  
-And, with a tear in every eye…we say, Goodbye!
+And, with a tear in every eyeï¿½we say, Goodbye!
 </pre>
 </div>
 
@@ -498,7 +498,7 @@ Look at us, here we come, we're the BLUE-u-u
 
 2) A toast to Kahagon Blue-ue, a cheer for our team.  Who never are defeated.  
 Who plunge into the fray. Our true warrior's amended, our color blue unfurled. 
-Till color war has ended and the victory is won!    Repeat…
+Till color war has ended and the victory is won!    Repeatï¿½
 
 3) (to tune of "California Here We Come")  
 Teams seem to be White Eagles and Blue Stallions
@@ -510,20 +510,20 @@ Right to the ground; So come on blue team give a yell.
 Watch those eagles fly to "_ell" and
 Gallop stallions to the sky and for not only eagles fly-y-y.
 
-4) When we see the flag of the Blue…
+4) When we see the flag of the Blueï¿½
 we cheer and we shout hallelujah.  
-So proud to be part of the team…
+So proud to be part of the teamï¿½
 that will conquer the color war.
 The Blue team will conquer the White; 
 and make all the judges stand and wonder.
-So let's give a cheer for the Blue…
+So let's give a cheer for the Blueï¿½
 and let it echo from the hillside just like thunder.
 B - L - U-E   Blue!
 
-5) (2nd or 3rd verse?) We tip our hats to you…it has been swell.
-How much it's meant to us…words cannot tell.
-Oh the strong competition and all intuition for…both white and blue.
-We loved it how about you?  How about it…did you like, did you do…Boop!
+5) (2nd or 3rd verse?) We tip our hats to youï¿½it has been swell.
+How much it's meant to usï¿½words cannot tell.
+Oh the strong competition and all intuition forï¿½both white and blue.
+We loved it how about you?  How about itï¿½did you like, did you doï¿½Boop!
 
 6) We're the white team and couldn't be prouder; 
 and if you can't hear us, we'll shout a little louder.
@@ -533,13 +533,13 @@ REPEATS few times.
 V for the blue means down with the white;
 So the blues not the whites ..we will fight, fight, fight.
 Fighting for the blue team.  Fight for victory.  Oh, we're out to win the fray.
-So blues will win today, for the blue team…Hurray!
-An eye for an eye; a tooth for a tooth…and a V for victory…
-Repeat: Oh V is for the blue team… etc.
+So blues will win today, for the blue teamï¿½Hurray!
+An eye for an eye; a tooth for a toothï¿½and a V for victoryï¿½
+Repeat: Oh V is for the blue teamï¿½ etc.
 
-8) Thunder Thunder Thunderation…we're the white team delegation; 
+8) Thunder Thunder Thunderationï¿½we're the white team delegation; 
 when we yell with determination
-We create a great sensation… REPEAT few times.
+We create a great sensationï¿½ REPEAT few times.
 
 9) W-H-I-T-E, win with the white; da da dum; W-H-I-T-E win with the white, 
 As we go forging onward triumphantly; our banners waving defiantly.
@@ -550,7 +550,7 @@ Hail to the white; best team in sight.  Hear our battle cry.
 Each heart will beat in triumph; a sound that victory is night
 A bulging out like warriors, will conquer do or die.
 You see a many markings (?) ---(clap, clap) upon a voyage tonight.
-Destroy the mighty blue team fleet and win with WHITE..da da dum…
+Destroy the mighty blue team fleet and win with WHITE..da da dumï¿½
 W-H-I-T-E, win with the WHITE!
 
 </pre>
@@ -598,29 +598,29 @@ We're the Camp Kahagon Lodge girls;
 Camp Kahagon Lodge girls do or die.
 We've got the spirit, the strength and might; 
 We'll show the C.I.T.s that we know how to fight.
-Oh, we're the Camp Kahagon Lodge girls…
+Oh, we're the Camp Kahagon Lodge girlsï¿½
 and we'll never ever fall.
-Camp Kahagon Lodge girls are we…
+Camp Kahagon Lodge girls are weï¿½
 our spirits never falter.
 C.I.T.s--- you better watch out!
 
 You can always tell a Lodge girl.  
-You can tell her by her walk…what a wiggle!
+You can tell her by her walkï¿½what a wiggle!
 You can always tell a Lodge girl.  
-You  can tell her by her talk…what a giggle.
+You  can tell her by her talkï¿½what a giggle.
 You can tell her by her manners, her ability and such.
-You can always tell a Lodge girl….BUT you cannot tell her much!
+You can always tell a Lodge girlï¿½.BUT you cannot tell her much!
 
-The prettiest girls…you ever did see…are in the Lodge…of '63.
+The prettiest girlsï¿½you ever did seeï¿½are in the Lodgeï¿½of '63.
 The prettiest girls you ever did see, are in the Lodge of '63.
 
-The prettiest girls…you ever saw…are in the Lodge…of '64.
+The prettiest girlsï¿½you ever sawï¿½are in the Lodgeï¿½of '64.
 The prettiest girls you ever saw, are in the Lodge of '64.
 
-The prettiest girls…that are alive…are in the Lodge…of '65. 
+The prettiest girlsï¿½that are aliveï¿½are in the Lodgeï¿½of '65. 
 The prettiest girls that are alive, are in the Lodge of '65.
 
-The prettiest girls…that do exist.  Are in the Lodge of '66.
+The prettiest girlsï¿½that do exist.  Are in the Lodge of '66.
 The prettiest girls that do exist, are in the Lodge of '66.
 </pre>
 </div>
@@ -630,12 +630,12 @@ The prettiest girls that do exist, are in the Lodge of '66.
 
 <h4>General "Dining Room" Songs and Ditties:</h4>
 <pre>
-I go to Camp Kahagon pity me…there's not a boy in the vicinity. 
+I go to Camp Kahagon pity meï¿½there's not a boy in the vicinity. 
 And every night at nine they lock the doors.
 I don't know why the hell I ever came before.
 I'm gonna pack my bags and homeward bound.  
 I'm going to turn this damn camp upside down.
-I'm gonna smoke and drink, and neck and peck…and what the heck.
+I'm gonna smoke and drink, and neck and peckï¿½and what the heck.
 The hell with Kahagon boyyyys.
 
 
@@ -645,17 +645,17 @@ up here who are really pretty shitty;
 oh please take me back to the boys in the city.
 
 
-104…pounds of bore…Is this what we came here for….
-da da da da…
+104ï¿½pounds of boreï¿½Is this what we came here forï¿½.
+da da da daï¿½
 Get a load of Camp Kahagon boyyys.
 Well, speaking of those, conceited schmos; 
-4 foot 4 and heaven knows…
+4 foot 4 and heaven knowsï¿½
 da da da da  
 Get a load of Camp Kahagon boys.
 They think that they can have us girls.  
 Well they think too much.
 Speaking of those, conceited schmos; 
-4 foot 4 and heaven knows…
+4 foot 4 and heaven knowsï¿½
 da da da da
 Get a load of Camp Kahagon boys.
 
@@ -663,11 +663,11 @@ Get a load of Camp Kahagon boys.
 Cheer boys cheer, Kahagon's burning down.  
 Cheer boys cheer, it's burning to the ground.
 Cheer boys cheer, Kahagon's burning down.  
-There'll be a hot time in the 'ole camp tonight…Fire Fire Fire
-Late last night…while we were all in bed… 
+There'll be a hot time in the 'ole camp tonightï¿½Fire Fire Fire
+Late last nightï¿½while we were all in bedï¿½ 
 ______ and ______ were necking in the shed.
-Along came Bert, and this is what he said…
-There'll be a hot time in the 'ole camp tonight….
+Along came Bert, and this is what he saidï¿½
+There'll be a hot time in the 'ole camp tonightï¿½.
 REPEAT
 
 </pre>
@@ -679,11 +679,11 @@ REPEAT
 
 <h4>Waiters Songs:</h4>
 <pre>
-Ivory soap…contribute to the waiters.  Ivory soap, the waiters need a bath.
-And so many skin deodorizers…B.O. with the waiters is a fad.
+Ivory soapï¿½contribute to the waiters.  Ivory soap, the waiters need a bath.
+And so many skin deodorizersï¿½B.O. with the waiters is a fad.
 
-We love our waiters, we always will…because our waiters give us such a thrill.
-We are no longer a little child…our sexy waiter drives us wiiiiiild!
+We love our waiters, we always willï¿½because our waiters give us such a thrill.
+We are no longer a little childï¿½our sexy waiter drives us wiiiiiild!
 
 Our waiter went into the kitchen.  Our waiter went into the kitch.
 Our waiter went into the kitchen.  Oh bring back that son of a ____.

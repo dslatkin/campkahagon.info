@@ -11,6 +11,7 @@ export default {
             yellow: '#f0db4d',
             'yellow-light': '#fff6c3',
             indigo: '#151b8d',
+            purple: '#700fe6',
         },
         extend: {
             gridTemplateColumns: {

@@ -8,7 +8,7 @@
 
 <div class="item" style=" <?php if ($_GET['target']!=reunion){print "display:none;";}?>">
 <h2>Reunions</h2>
-Some "campers" are planning a new reunion--for either sometime 2016 or 2017, either in NYC or Philadelphia).<br>  If you want to help or want more info (and it will also be posted on here), please contact: kahagonsaryl@yahoo.com
+Some "campers" are planning a new reunion--for either sometime 2016 or 2017, either in NYC or Philadelphia).<br>  If you want to help or want more info (and it will also be posted on here), please <a href="/more-info">contact Saryl</a>.
 <br><br>
 The first Camp Kahagon reunion took place on Sat. April 25, 2009 at the Trattoria Dell'Arte restaurant in New York City<br><br>
 <br><br>

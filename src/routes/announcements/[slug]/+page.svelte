@@ -14,8 +14,7 @@
     </p>
     <p>
         If you want to help or want more info (and it will also be posted on
-        here), please contact:
-        <a href="mailto:kahagonsaryl@yahoo.com">kahagonsaryl@yahoo.com</a>
+        here), please <a href="/more-info">contact Saryl</a>.
     </p>
     <p>
         The first Camp Kahagon reunion took place on Sat. April 25, 2009 at the

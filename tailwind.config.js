@@ -12,7 +12,11 @@ export default {
             'yellow-light': '#fff6c3',
             indigo: '#151b8d',
         },
-        extend: {},
+        extend: {
+            gridTemplateColumns: {
+                sidebar: '1fr 3fr',
+            },
+        },
     },
     plugins: [],
 };

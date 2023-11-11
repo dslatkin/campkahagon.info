@@ -1,6 +1,6 @@
 .DS_Store
-node_modules
-package-lock.json
+/node_modules
+/package-lock.json
 /.svelte-kit
-/static
-/src/app.html
+/build
+/archive

@@ -117,5 +117,7 @@
         <li>Rodney Friedman</li>
         <li>Donny Cowf</li>
         <li>Judy Schmukler</li>
+        <li>Marlene Gold</li>
+        <li>Ken Gold</li>
     </ul>
 {/if}

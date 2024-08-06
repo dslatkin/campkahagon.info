@@ -38,7 +38,7 @@
 
 <nav aria-label="Secondary" class="flex flex-col gap-8 pt-32">
     {#if navItemsNoGroup.length}
-        <ul>
+        <ul class="flex flex-col gap-2">
             {#each navItemsNoGroup as { label, href, isActive }}
                 {#if isActive}
                     <li>{label}</li>

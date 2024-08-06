@@ -80,7 +80,6 @@ Miriam Binder
 
 <td valign="top">
 Andy and Dave Friedman<br>
-Milt Pflaum<br>
 Gary Kaplowitz<br>
 </td>
 </tr>

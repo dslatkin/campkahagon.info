@@ -22,21 +22,6 @@
                 href: '/reunions/2009',
                 group: 'Kahagonites Now',
             },
-            {
-                label: '2013',
-                href: '/reunions/2013',
-                group: 'Kahagonites Now',
-            },
-            {
-                label: '2014',
-                href: '/reunions/2014',
-                group: 'Kahagonites Now',
-            },
-            {
-                label: '2015',
-                href: '/reunions/2015',
-                group: 'Kahagonites Now',
-            },
         ]}
     />
     <svelte:fragment slot="main">

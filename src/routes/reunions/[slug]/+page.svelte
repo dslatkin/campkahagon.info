@@ -22,18 +22,3 @@
         </a>
     </p>
 {/if}
-
-{#if slug == '2013'}
-    <h2>Kahagonites Now - In 2013</h2>
-    <p>We are still waiting for some new pictures!</p>
-{/if}
-
-{#if slug == '2014'}
-    <h2>Kahagonites Now - In 2014</h2>
-    <p>We are still waiting for some new pictures!</p>
-{/if}
-
-{#if slug == '2015'}
-    <h2>Kahagonites Now - In 2015</h2>
-    <p>We are still waiting for some new pictures!</p>
-{/if}

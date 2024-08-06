@@ -36,7 +36,7 @@
     }));
 </script>
 
-<nav aria-label="Secondary" class="pt-32">
+<nav aria-label="Secondary" class="flex flex-col gap-8 pt-32">
     {#if navItemsNoGroup.length}
         <ul>
             {#each navItemsNoGroup as { label, href, isActive }}
@@ -51,16 +51,18 @@
 
     {#if navItemsByGroup.length}
         {#each navItemsByGroup as { group, items }}
-            <h2 class="pb-4">{group}</h2>
-            <ul class="flex flex-col gap-2">
-                {#each items as { label, href, isActive }}
-                    {#if isActive}
-                        <li>{label}</li>
-                    {:else}
-                        <li><a {href}>{label}</a></li>
-                    {/if}
-                {/each}
-            </ul>
+            <div>
+                <h2 class="pb-4 leading-tight">{group}</h2>
+                <ul class="flex flex-col gap-2">
+                    {#each items as { label, href, isActive }}
+                        {#if isActive}
+                            <li>{label}</li>
+                        {:else}
+                            <li><a {href}>{label}</a></li>
+                        {/if}
+                    {/each}
+                </ul>
+            </div>
         {/each}
     {/if}
 </nav>

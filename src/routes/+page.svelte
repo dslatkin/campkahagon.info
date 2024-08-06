@@ -2,6 +2,13 @@
     console.log('working');
 </script>
 
+<a
+    href="https://facebook.com/groups/campkahagon"
+    class="mx-auto mb-8 flex w-fit rounded bg-blue-lighter px-4 py-2 font-bold no-underline hover:underline"
+>
+    And also visit our Facebook Group!
+</a>
+
 <p>Hi all... Welcome back to CAMP KAHAGON!</p>
 
 <blockquote>KAHAGON is Iroquois - meaning "In the forest"</blockquote>

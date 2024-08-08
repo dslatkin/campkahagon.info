@@ -98,7 +98,6 @@
         <li>Barbara Heller</li>
         <li>Miriam Binder</li>
         <li>Andy and Dave Friedman</li>
-        <li>Milt Pflaum</li>
         <li>Gary Kaplowitz</li>
     </ul>
 {/if}

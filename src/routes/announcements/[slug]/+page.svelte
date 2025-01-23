@@ -119,5 +119,6 @@
         <li>Marlene Gold</li>
         <li>Ken Gold</li>
         <li>Marty Bachrach</li>
+        <li>Janine Heitner</li>
     </ul>
 {/if}
